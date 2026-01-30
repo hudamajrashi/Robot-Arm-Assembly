@@ -59,3 +59,11 @@ Possible future improvements include:
 - Defining motion limits for joints
 - Weight optimization for 3D printing
 - Integration with a robotic base for full system operation
+
+---
+
+## Onshape CAD Link
+
+The complete robot arm CAD model can be viewed and explored on Onshape using the link below:
+
+👉 [View Robot Arm on Onshape](https://cad.onshape.com/documents/0a2fd772956fbc05f9e72e6a/w/2a8a5b093140de31725a28e6/e/d2cf985292af4ceac076df0b?renderMode=0&uiState=697d3e8ddcc3d2a23291cb8a)
